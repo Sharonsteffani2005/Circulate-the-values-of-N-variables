@@ -16,6 +16,10 @@ Using the slicing concept rotate the list
 ### Step 6: 
 ## Program:
 
+![image](https://github.com/Sharonsteffani2005/Circulate-the-values-of-N-variables/assets/144979934/b05a5a9a-4e64-42e3-80df-a5565ae8f96d)
+
+
 ## Output:
 
 ## Result:
+
